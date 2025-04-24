@@ -1,0 +1,10 @@
+@media screen and (max-width: 1440px) {
+   img{height: 100%;
+    width: 25%;
+    align-self:end;
+    margin-top: 0px;
+    font-size: 500px;
+    margin-left: 90px;
+} 
+    
+}

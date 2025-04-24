@@ -3,7 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{width: 100%;}
+body{
+    width: 100%;}
 .group{
     display: flex;
     justify-content:flex-start;
@@ -126,7 +127,6 @@ p{
     border-radius: 25px;
     margin-left: 170px; 
     text-decoration: none;
-    border: ;
 }
 img{
     height: 100%;
@@ -135,6 +135,7 @@ img{
     margin-top: 0px;
     font-size: 500px;
     margin-left: 420px;
+    border: 2px solid black;
 }
 .group3{
     display: flex;
